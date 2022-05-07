@@ -1,7 +1,7 @@
 # Primeiro desafio repositrio no GitHub
 
 
-## Uma breve revisão da notação se estudou nas aulas de como aprender a fazer o primeiro passo para **Git e GitHUb** e como fazer o primeiro commit.
+## Uma breve revisão das notaçães meu estudou com as aulas de como aprender a fazer os primeiros passo para **Git e GitHub** e como fazer os primeiros commit.
 
 
 
