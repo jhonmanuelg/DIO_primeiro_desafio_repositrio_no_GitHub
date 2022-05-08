@@ -26,10 +26,9 @@ Do repositório desta forma, obtenha o primeiro contato com dos commit:
 - git status
 - git remote -v
 - git push -u origin master
-- git remote add origin git@github.com:leocomelli/curso-git.git
+- git remote add origin https://github.com/jhonmanuelg/DIO_primeiro_desafio_repositrio_no_GitHub.git
 - git config --global user.name "Leonardo Comelli"
-- git config --global user.email leonardo@software-ltda.com.br
-
+- git config --global user.email jhonmanuelg6@outlook.com.com
 
 
 
