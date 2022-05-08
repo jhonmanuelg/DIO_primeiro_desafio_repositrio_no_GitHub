@@ -30,7 +30,7 @@ Do repositório desta forma, obtenha o primeiro contato com dos commit:
 - git config --global user.name "jhon manuel gil"
 - git config --global user.email jhonmanuelg6@outlook.com.com
 -----------
-** ¿Qué es Markdown?
+## ¿Qué es Markdown?
 
 - Markdown es un lenguaje de marcado ligero que puede usar para agregar elementos de formato a documentos de texto sin formato. Creado por John Gruber en 2004, Markdown es ahora uno de los lenguajes de marcado más populares del mundo.
 - Markdown admiten la sintaxis básica descrita en el documento de diseño original de Markdown.
