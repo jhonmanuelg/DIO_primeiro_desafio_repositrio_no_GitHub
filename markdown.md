@@ -28,7 +28,7 @@ Do repositório desta forma, obtenha o primeiro contato com dos commit:
 - git push -u origin master
 - git remote add origin https://github.com/jhonmanuelg/DIO_primeiro_desafio_repositrio_no_GitHub.git
 - git config --global user.name "jhon manuel gil"
-- git config --global user.email jhonmanuelg6@outlook.com.com
+- git config --global user.email "jhonmanuelg6@outlook.com"
 -----------
 ## ¿Qué es Markdown?
 
